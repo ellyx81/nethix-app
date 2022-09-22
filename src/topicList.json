@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Ethics and Profession",
+        "image": "./images/EAP.png",
+        "themeColor": ""
+    },
+    {
+        "title": "Ethics for IT Workers and Users",
+        "image": "./images/EIWU.png",
+        "themeColor": ""
+    },
+    {
+        "title": "Cyberattacks and Cybersecurity",
+        "image": "./images/CAC.png",
+        "themeColor": ""
+    },
+    {
+        "title": "Anonymity and Security",
+        "image": "./images/AP.png",
+        "themeColor": ""
+    },
+    {
+        "title": "Privacy and Civil Liberties",
+        "image": "./images/AAP.png",
+        "themeColor": ""
+    },
+    {
+        "title": "Intellectual Properties",
+        "image": "../../images/IP.png",
+        "themeColor": ""
+    },
+    {
+        "title": "Software Issues, Risks and Liabilities",
+        "image": "../../images/SIAR.png",
+        "themeColor": ""
+    },
+    {
+        "title": "Social Context of Computing",
+        "image": "../../images/SCC.png'",
+        "themeColor": ""
+    },
+    {
+        "title": "Cyberbullying",
+        "image": "../../images/CB.png",
+        "themeColor": ""
+    }
+    
+]
